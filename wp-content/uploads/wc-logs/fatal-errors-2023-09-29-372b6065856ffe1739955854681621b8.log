@@ -1,0 +1,4 @@
+2023-09-29T20:58:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\CMS\wp-admin\includes\file.php on line 1663
+
+2023-09-29T20:59:10+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\CMS\wp-includes\Requests\src\Transport\Curl.php on line 533
+
